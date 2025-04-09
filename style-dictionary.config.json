@@ -1,7 +1,9 @@
 {
   "source": [
     "./src/**/tokens.json",
-    "./src/**/*.tokens.json"
+    "./src/**/*.tokens.json",
+    "./edits/**/tokens.json",
+    "./edits/**/*.tokens.json"
   ],
   "platforms": {
     "css": {
