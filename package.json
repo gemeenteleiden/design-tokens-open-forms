@@ -1,6 +1,6 @@
 {
-  "name": "@open-formulieren/design-tokens",
-  "version": "0.59.1",
+  "name": "@gemeenteleiden/design-tokens-open-forms",
+  "version": "0.59.1-leiden.0",
   "description": "Design tokens for Open Forms",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-formulieren/design-tokens.git"
+    "url": "git+https://github.com/gemeenteleiden/design-tokens-open-forms.git"
   },
   "keywords": [
     "style-dictionary",
@@ -28,12 +28,12 @@
     "system",
     "open-forms"
   ],
-  "author": "Maykin Media",
+  "author": "Gemeente Leiden",
   "license": "EUPL-1.2",
   "bugs": {
-    "url": "https://github.com/open-formulieren/design-tokens/issues"
+    "url": "https://github.com/gemeenteleiden/design-tokens-open-forms/issues"
   },
-  "homepage": "https://github.com/open-formulieren/design-tokens#readme",
+  "homepage": "https://github.com/gemeenteleiden/design-tokens-open-forms#readme",
   "devDependencies": {
     "chokidar": "^3.5.3",
     "chokidar-cli": "^3.0.0",
